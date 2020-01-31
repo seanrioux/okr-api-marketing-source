@@ -1,0 +1,76 @@
+body {
+  font-family: 'Libre Franklin', sans-serif;
+  color: #262626; }
+
+h1, h2, h3, h4 {
+  font-weight: 700; }
+
+iframe {
+  width: 100% !important; }
+
+.small-icon {
+  width: 60px;
+  height: 60px;
+  padding: 10px;
+  margin: 0 auto; }
+
+.card .price {
+  font-weight: 800; }
+
+.articles-list a {
+  text-decoration: none;
+  color: #262626; }
+  .articles-list a:hover {
+    text-decoration: none;
+    color: #262626; }
+
+.cli-box .cli-bar {
+  height: 25px;
+  background: #2b2b2b; }
+  .cli-box .cli-bar span {
+    display: inline-block;
+    margin-left: 5px;
+    border-radius: 10px;
+    width: 10px;
+    height: 10px;
+    background: #404040; }
+.cli-box .cli-body {
+  background: #303030;
+  color: white; }
+
+.navbar-brand {
+  background: url("/assets/images/logos/logo-light.svg") no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100px;
+  height: 30px;
+  font-size: 0px;
+  margin-top: 2px; }
+
+.btn-primary {
+  background: #007CFF !important;
+  border-color: #007CFF !important; }
+
+.btn-success {
+  background: #1EC7A9 !important;
+  border-color: #1EC7A9 !important; }
+
+a, a.btn-link {
+  color: #007CFF; }
+  a:hover, a.btn-link:hover {
+    color: #0063cc; }
+
+.bg-red {
+  background: #E33B50; }
+
+.bg-blue, .bg-primary {
+  background: #007CFF; }
+
+.bg-purple {
+  background: #7828D1; }
+
+.bg-green {
+  background: #1EC7A9; }
+
+.bg-dark {
+  background: #262626 !important; }
